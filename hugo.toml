@@ -20,6 +20,7 @@ menu =  [
 ]
 
 mastodon_url = "https://fribygda.no/@rwdf"
+rss_icon = true
 
 [taxonomies]
   tags = 'tags'
