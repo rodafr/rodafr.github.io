@@ -1,6 +1,7 @@
 +++
 title = 'External Monitor Troubles'
 date = 2024-01-24T16:14:07+01:00
+tags = ["linux"]
 +++
 
 Today I wanted to connect an external monitor to my Linux laptop. (I use Arch, btw.)  

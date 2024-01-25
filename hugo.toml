@@ -2,6 +2,7 @@ baseURL = 'https://rodafr.github.io/'
 languageCode = 'en-us'
 title = 'rwdf blogs'
 theme = 'poison'
+paginate = 10
 
 [author]
     name = "rwdf"
