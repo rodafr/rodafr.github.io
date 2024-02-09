@@ -2,6 +2,7 @@
 title = 'Neovide Gui for Neovim'
 date = 2024-02-02T10:24:08+01:00
 draft = true
+tags = ["linux", "neovim"]
 +++
 
 Reading Hacker News last night I found a post about Neovide.  

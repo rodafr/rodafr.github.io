@@ -1,6 +1,7 @@
 +++
 title = 'Applying for a New Job'
 date = 2024-02-09T14:53:47+01:00
+tags = ["work"]
 +++
 
 I was recently asked to sit in on some interviews at work, and as part of my prep I looked through our job postings. We have quite a few out right now and a couple of them caught my eye. In fact, when I read the description of what kind of experience they are looking for, it was almost a perfect match for my background. The work seems really interesting as well, so I felt I had no choice but to apply.  

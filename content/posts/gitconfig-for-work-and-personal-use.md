@@ -1,6 +1,7 @@
 +++
 title = 'Gitconfig for Work and Personal Use'
 date = 2024-02-09T15:36:10+01:00
+tags = ["work", "git", "personal"]
 +++
 
 When writing blog posts from WSL on my work machine it's easy to mix up personal and work git user settings. For instance I have pushed a couple of commits (and "doxxed" myself) on this blog a time or two.  
